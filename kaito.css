@@ -1,0 +1,33 @@
+@charset "UTF-8";
+* {
+	text-align: center;
+}
+form {
+	outline: 10px auto;
+	padding: 50px 100px;
+	margin: 50px;
+	color: #35E69A;
+	background-color: cornsilk;
+	line-height: 1.7em;
+}
+p {
+	outline: 3px double #EB262A;
+	line-height: 1.7em;
+	border-radius: 0.5em;
+}
+#screen {
+	margin: auto;
+}
+#selector {
+	margin: auto;
+	position: relative;
+}
+.sora{
+	text-decoration-color: #FFE823;
+}
+.miabi{
+	text-decoration-color: #FF0004;
+}
+.mind{
+	text-decoration-color: #858585;
+}
